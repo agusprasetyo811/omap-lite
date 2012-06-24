@@ -1,0 +1,22 @@
+[18-Dec-2011 16:36:23] PHP Notice:  Undefined variable: v in /system7/xampp/htdocs/iksan/templates/iksan/index.php on line 1
+[18-Dec-2011 16:36:23] PHP Stack trace:
+[18-Dec-2011 16:36:23] PHP   1. {main}() /system7/xampp/htdocs/iksan/templates/iksan/index.php:0
+[18-Dec-2011 16:36:23] PHP Notice:  Undefined variable: sess in /system7/xampp/htdocs/iksan/templates/iksan/content/topmenu.php on line 1
+[18-Dec-2011 16:36:23] PHP Stack trace:
+[18-Dec-2011 16:36:23] PHP   1. {main}() /system7/xampp/htdocs/iksan/templates/iksan/index.php:0
+[18-Dec-2011 16:36:23] PHP   2. include() /system7/xampp/htdocs/iksan/templates/iksan/index.php:28
+[18-Dec-2011 16:36:23] PHP Fatal error:  Call to a member function sess_on() on a non-object in /system7/xampp/htdocs/iksan/templates/iksan/content/topmenu.php on line 1
+[18-Dec-2011 16:36:23] PHP Stack trace:
+[18-Dec-2011 16:36:23] PHP   1. {main}() /system7/xampp/htdocs/iksan/templates/iksan/index.php:0
+[18-Dec-2011 16:36:23] PHP   2. include() /system7/xampp/htdocs/iksan/templates/iksan/index.php:28
+[18-Dec-2011 16:36:43] PHP Notice:  Undefined variable: v in /system7/xampp/htdocs/iksan/templates/iksan/index.php on line 1
+[18-Dec-2011 16:36:43] PHP Stack trace:
+[18-Dec-2011 16:36:43] PHP   1. {main}() /system7/xampp/htdocs/iksan/templates/iksan/index.php:0
+[18-Dec-2011 16:36:43] PHP Notice:  Undefined variable: sess in /system7/xampp/htdocs/iksan/templates/iksan/content/topmenu.php on line 1
+[18-Dec-2011 16:36:43] PHP Stack trace:
+[18-Dec-2011 16:36:43] PHP   1. {main}() /system7/xampp/htdocs/iksan/templates/iksan/index.php:0
+[18-Dec-2011 16:36:43] PHP   2. include() /system7/xampp/htdocs/iksan/templates/iksan/index.php:28
+[18-Dec-2011 16:36:43] PHP Fatal error:  Call to a member function sess_on() on a non-object in /system7/xampp/htdocs/iksan/templates/iksan/content/topmenu.php on line 1
+[18-Dec-2011 16:36:43] PHP Stack trace:
+[18-Dec-2011 16:36:43] PHP   1. {main}() /system7/xampp/htdocs/iksan/templates/iksan/index.php:0
+[18-Dec-2011 16:36:43] PHP   2. include() /system7/xampp/htdocs/iksan/templates/iksan/index.php:28
