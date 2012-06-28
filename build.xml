@@ -18,7 +18,7 @@
 		<mkdir dir="${omap.path.dir}/system" />
 		<mkdir dir="${omap.path.dir}/templates" />
 
-		<copy todir="${omap.path.dir}modules" overwrite="true">
+		<copy todir="${omap.path.dir}/modules" overwrite="true">
 			<fileset dir="${omap.controller.dir}" />
 		</copy>
 		<copy todir="${omap.path.dir}/controller" overwrite="true">
